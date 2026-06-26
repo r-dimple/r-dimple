@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:06b6d4&height=210&section=header&text=Dimple%20Rani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Developer%20%C2%B7%20RAG%20%26%20Agentic%20Systems%20%C2%B7%20Full-Stack&descAlignY=58&descSize=17&animation=fadeIn" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Dimple+Rani+%F0%9F%91%8B;Generative+AI+Developer;RAG+%26+Agentic+Systems;LLM+Applications+%F0%9F%A4%96" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:06b6d4&height=180&section=header&text=Dimple%20Rani&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Generative%20AI%20Developer%20%C2%B7%20RAG%20%26%20Agentic%20Systems%20%C2%B7%20Full-Stack&descAlignY=62&descSize=16&animation=fadeIn" />
+
 </div>
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-rdimple993@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdimple993@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-r--dimple-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-dimple)
-  [![Phone](https://img.shields.io/badge/Phone-+91--620--557--8300-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916205578300)
   [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20%26%20Backend%20Roles-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 </div>
