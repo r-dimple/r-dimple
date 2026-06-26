@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Dimple+Rani+%F0%9F%91%8B;Generative+AI+Developer;RAG+%26+Agentic+Systems;LLM+Applications+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=42&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi%2C+I'm+Dimple+Rani+%F0%9F%91%8B;Generative+AI+Developer;RAG+%26+Agentic+Systems;LLM+Applications+%F0%9F%A4%96" alt="Typing SVG" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:06b6d4&height=180&section=header&text=Dimple%20Rani&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Generative%20AI%20Developer%20%C2%B7%20RAG%20%26%20Agentic%20Systems%20%C2%B7%20Full-Stack&descAlignY=62&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:a855f7,100:06b6d4&amp;height=180&amp;section=header&amp;text=Dimple%20Rani&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Generative%20AI%20Developer%20%C2%B7%20RAG%20%26%20Agentic%20Systems%20%C2%B7%20Full-Stack&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn" />
 
 </div>
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-rdimple993@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdimple993@gmail.com)
+
+  [![Email](https://img.shields.io/badge/Email-rdimple993%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdimple993@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-r--dimple-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-dimple)
   [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20%26%20Backend%20Roles-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
@@ -22,11 +22,11 @@ I'm a final-year **B.Sc. Information Technology** student (CGPA 8.8/10) who ship
 
 I work at the intersection of **LLM engineering** and **full-stack development**: designing RAG pipelines, building multi-agent systems with LangChain & LangGraph, and deploying everything end-to-end on self-managed infrastructure.
 
-- 🤖 Hands-on with **LangChain · LangGraph · CrewAI · AutoGen** for agentic workflows  
-- 🚀 Two **live AI products** shipped — a SaaS chatbot platform and a document intelligence tool  
-- ⚡ Cut LLM response latency from **6–7 seconds → under 2 seconds** via RAG pipeline optimization  
-- 🐳 Full DevOps ownership: **Docker · Caprover · Ubuntu VPS** from architecture to deployment  
-- 🎯 Looking for **AI/ML Engineer** or **Backend + AI** roles where I can build things that matter  
+- 🤖 Hands-on with **LangChain · LangGraph · CrewAI · AutoGen** for agentic workflows
+- 🚀 Two **live AI products** shipped — a SaaS chatbot platform and a document intelligence tool
+- ⚡ Cut LLM response latency from **6–7 seconds → under 2 seconds** via RAG pipeline optimization
+- 🐳 Full DevOps ownership: **Docker · Caprover · Ubuntu VPS** from architecture to deployment
+- 🎯 Looking for **AI/ML Engineer** or **Backend + AI** roles where I can build things that matter
 
 ---
 
@@ -82,9 +82,9 @@ I work at the intersection of **LLM engineering** and **full-stack development**
 
 A SaaS platform that lets any website owner embed a conversational AI chatbot in 2 steps — **no backend required**.
 
-- 🏗️ Built the core AI agent layer: engineered the RAG pipeline for PDF / CSV / text ingestion  
-- ⚡ Optimized retrieval logic to cut average response latency from **6–7s → under 2s**  
-- 🌐 Features domain verification, token management, multi-site support, and customizable widget  
+- 🏗️ Built the core AI agent layer: engineered the RAG pipeline for PDF / CSV / text ingestion
+- ⚡ Optimized retrieval logic to cut average response latency from **6–7s → under 2s**
+- 🌐 Features domain verification, token management, multi-site support, and customizable widget
 - ✅ Currently **live across multiple client websites**
 
 ---
@@ -94,8 +94,8 @@ A SaaS platform that lets any website owner embed a conversational AI chatbot in
 
 Upload PDFs and query them conversationally via a LangChain RAG agent backed by Pinecone + Groq.
 
-- 🏛️ Designed a **decoupled two-service architecture**: FastAPI agent backend + Flask frontend  
-- 🔗 Services communicate over REST API, fully containerized and self-hosted on Ubuntu VPS  
+- 🏛️ Designed a **decoupled two-service architecture**: FastAPI agent backend + Flask frontend
+- 🔗 Services communicate over REST API, fully containerized and self-hosted on Ubuntu VPS
 
 ---
 
@@ -117,10 +117,10 @@ Image processing web app supporting grayscale, PNG, JPG, and WebP conversion, wi
 
 ## 📈 Currently Learning
 
-- 🔬 Advanced **agentic workflows** and **tool-use patterns** with LangChain & CrewAI  
-- 🧪 **Evaluation and observability** for LLM apps — LangSmith, tracing, structured logging  
-- ⚡ **Vector search optimization** — hybrid retrieval, re-ranking, late chunking strategies  
-- 🧠 Deeper **fine-tuning techniques** — DPO, RLHF, and quantization (GGUF, GPTQ)  
+- 🔬 Advanced **agentic workflows** and **tool-use patterns** with LangChain & CrewAI
+- 🧪 **Evaluation and observability** for LLM apps — LangSmith, tracing, structured logging
+- ⚡ **Vector search optimization** — hybrid retrieval, re-ranking, late chunking strategies
+- 🧠 Deeper **fine-tuning techniques** — DPO, RLHF, and quantization (GGUF, GPTQ)
 
 ---
 
@@ -140,11 +140,11 @@ I'm actively looking for **AI/ML Engineer** and **Backend + AI** roles — remot
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-rdimple993@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdimple993@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-rdimple993%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdimple993@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-r--dimple-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-dimple)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:7c3aed&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:a855f7,100:7c3aed&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 </div>
